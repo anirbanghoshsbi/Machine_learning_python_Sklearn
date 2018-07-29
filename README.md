@@ -25,3 +25,7 @@ I used Multinomial Distribution which is a generalised form of Binomial Distribu
 It models the probability of counts for rolling a _k-sided die n times._ For n independent trials each of which leads to a success for exactly one of k categories, with each category having a given fixed success probability, the multinomial distribution gives the probability of any particular combination of numbers of successes for the various categories.
 
 **When k is 2 and n is 1, the multinomial distribution is the Bernoulli distribution.** When k is 2 and n is bigger than 1, it is the binomial distribution. When k is bigger than 2 and n is 1, it is the categorical distribution.
+
+_The Data for this Project is available at data.world_
+
+https://data.world/data-society/consumer-complaint-data/
